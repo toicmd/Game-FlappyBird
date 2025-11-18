@@ -20,8 +20,7 @@ Xem video demo gameplay tại đây:
 
 ## Công nghệ sử dụng
 - **Ngôn ngữ:** C++
-- **Thư viện đồ họa:** SFML (Simple and Fast Multimedia Library)
-- **IDE:** Code::Blocks
+- **Thư viện đồ họa:** SFML 
 
 ## 📂 Cấu trúc dự án
 Mã nguồn được tổ chức theo cấu trúc tách biệt Header/Source để tối ưu quản lý:
