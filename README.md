@@ -4,9 +4,11 @@
 
 ## 🎥 Demo Gameplay
 
-Dưới đây là hình ảnh thực tế khi chạy game (Ảnh động):
+Dưới đây là hình ảnh thực tế khi chạy game:
 
 ![Demo Flappy Bird](Demo.gif)
+Xem video demo gameplay tại đây:
+👉 **[(https://www.youtube.com/shorts/h4nPOXfFTDw)]**
 
 
 
