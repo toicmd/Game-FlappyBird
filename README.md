@@ -9,6 +9,7 @@ Dưới đây là hình ảnh thực tế khi chạy game (Ảnh động):
 ![Demo Flappy Bird](Demo.gif)
 
 
+
 ## ℹ️ Thông tin chung
 - **Môn học:** NGÔN NGỮ LẬP TRÌNH C++
 - **Nhóm - Lớp:** 17-11
