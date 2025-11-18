@@ -10,7 +10,7 @@ Dưới đây là hình ảnh thực tế khi chạy game:
 
 
 Xem video demo gameplay tại đây:
-👉 **[(https://www.youtube.com/shorts/h4nPOXfFTDw)]**
+👉 **https://www.youtube.com/shorts/h4nPOXfFTDw**
 
 
 
