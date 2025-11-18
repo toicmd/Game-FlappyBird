@@ -28,8 +28,8 @@ Mã nguồn được tổ chức theo cấu trúc tách biệt Header/Source đ�
 ```text
 FlappyBird/
 ├── assets/          # Chứa tài nguyên hình ảnh (.png), âm thanh (.wav)
-├── assetsmap/       # Chứa tài nguyên bản đồ (nếu có)
-├── data/            # Chứa file cấu hình đường dẫn và lưu điểm cao (High Score)
+├── assetsmap/       # Chứa tài nguyên bản đồ 
+├── data/            # Chứa file cấu hình đường dẫn và lưu điểm cao 
 ├── include/         # Chứa các file tiêu đề (.h) - Định nghĩa Class
 ├── src/             # Chứa mã nguồn xử lý (.cpp) và file main.cpp
-└── sfmll.cbp        # File quản lý dự án Code::Blocks (Project File)
+└── sfmll.cbp        # File quản lý dự án Code::Blocks 
