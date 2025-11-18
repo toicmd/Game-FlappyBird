@@ -2,21 +2,27 @@
 
 Đây là dự án game mô phỏng Flappy Bird được xây dựng bằng ngôn ngữ C++ và thư viện đồ họa SFML.
 
-## Thông tin chung
-- **Môn học:** [NGÔN NGỮ LẬP TRÌNH C++]
-- **Nhóm-Lớp:** [17-11]
+## 🎥 Video Demo
+Xem video demo gameplay tại đây:
+👉 **[DÁN LINK YOUTUBE CỦA BẠN VÀO ĐÂY]**
 
-## Công nghệ sử dụng
-- **Ngôn ngữ:** C++ 
+## ℹ️ Thông tin chung
+- **Môn học:** NGÔN NGỮ LẬP TRÌNH C++
+- **Nhóm - Lớp:** 17-11
+
+## 🛠️ Công nghệ sử dụng
+- **Ngôn ngữ:** C++
 - **Thư viện đồ họa:** SFML (Simple and Fast Multimedia Library)
-  
+- **IDE:** Code::Blocks
+
 ## 📂 Cấu trúc dự án
-Mã nguồn được tổ chức theo cấu trúc tách biệt Header/Source để dễ quản lý:
+Mã nguồn được tổ chức theo cấu trúc tách biệt Header/Source để tối ưu quản lý:
+
 ```text
 FlappyBird/
-├── assets/          # Chứa tài nguyên game (Hình ảnh .png, Âm thanh .wav)
-├── data/            # Chứa dữ liệu cấu hình và file lưu điểm cao (High Score)
+├── assets/          # Chứa tài nguyên hình ảnh (.png), âm thanh (.wav)
+├── assetsmap/       # Chứa tài nguyên bản đồ (nếu có)
+├── data/            # Chứa file cấu hình đường dẫn và lưu điểm cao (High Score)
 ├── include/         # Chứa các file tiêu đề (.h) - Định nghĩa Class
-├── src/             # Chứa mã nguồn (.cpp) - Xử lý Logic
-├── main.cpp         # Hàm main chính
-└── sfmll.cbp        # File project Code::Blocks
+├── src/             # Chứa mã nguồn xử lý (.cpp) và file main.cpp
+└── sfmll.cbp        # File quản lý dự án Code::Blocks (Project File)
