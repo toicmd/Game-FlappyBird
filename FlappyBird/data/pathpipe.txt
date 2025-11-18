@@ -1,0 +1,6 @@
+assetsmap\Pipe\0.png
+assetsmap\Pipe\1.png
+assetsmap\Pipe\2.png
+assetsmap\Pipe\3.png
+assetsmap\Pipe\4.png
+assetsmap\Pipe\5.png
