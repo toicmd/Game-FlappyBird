@@ -7,16 +7,18 @@
 Dưới đây là hình ảnh thực tế khi chạy game:
 
 ![Demo Flappy Bird](Demo.gif)
+
+
 Xem video demo gameplay tại đây:
 👉 **[(https://www.youtube.com/shorts/h4nPOXfFTDw)]**
 
 
 
-## ℹ️ Thông tin chung
+## Thông tin chung
 - **Môn học:** NGÔN NGỮ LẬP TRÌNH C++
 - **Nhóm - Lớp:** 17-11
 
-## 🛠️ Công nghệ sử dụng
+## Công nghệ sử dụng
 - **Ngôn ngữ:** C++
 - **Thư viện đồ họa:** SFML (Simple and Fast Multimedia Library)
 - **IDE:** Code::Blocks
