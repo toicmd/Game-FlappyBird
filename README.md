@@ -2,9 +2,12 @@
 
 Đây là dự án game mô phỏng Flappy Bird được xây dựng bằng ngôn ngữ C++ và thư viện đồ họa SFML.
 
-## 🎥 Video Demo
-Xem video demo gameplay tại đây:
-👉 **[DÁN LINK YOUTUBE CỦA BẠN VÀO ĐÂY]**
+## 🎥 Demo Gameplay
+
+Dưới đây là hình ảnh thực tế khi chạy game (Ảnh động):
+
+![Demo Flappy Bird](Demo.gif)
+
 
 ## ℹ️ Thông tin chung
 - **Môn học:** NGÔN NGỮ LẬP TRÌNH C++
